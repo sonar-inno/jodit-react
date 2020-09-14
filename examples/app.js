@@ -3,8 +3,8 @@ import './app.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import 'jodit';
-import 'jodit/build/jodit.min.css';
+import '@sonarinno/jodit';
+import '@sonarinno/jodit/build/jodit.min.css';
 import From from "./components/From";
 
 
